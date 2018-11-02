@@ -1,0 +1,7 @@
+[submodule "themes/charaka"]
+	path = themes/charaka
+	url = git@github.com:natarajmb/charaka-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:sobychacko/sobychacko.github.io.git
+	branch = master
