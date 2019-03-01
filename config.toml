@@ -18,7 +18,7 @@ copyright = "&copy; <a href=\"https://github.com/sobychacko\">Soby Chacko</a> 20
   style = "zenburn"
 
 [[params.social]]
-  url = "about"
+  url = "https://twitter.com/sobychacko/"
   fa_icon = "fas fa-info"
 
 [[params.social]]
