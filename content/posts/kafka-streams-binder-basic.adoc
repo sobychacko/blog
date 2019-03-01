@@ -80,10 +80,10 @@ We need to write a processor using these bindings. For that, we can use the *Str
 Add the following method to the application.
 ```
 @StreamListener("input")
-	@SendTo("output")
-	public KStream<?, String> process(KStream<?, String> input) {
-		return input.peek((k, v) -> System.out.println("Value received: " + v));
-	}
+@SendTo("output")
+public KStream<?, String> process(KStream<?, String> input) {
+	return input.peek((k, v) -> System.out.println("Value received: " + v));
+}
 
 ```
 As mentioned before, it doesn't do much, but worth mentioning a few details.
