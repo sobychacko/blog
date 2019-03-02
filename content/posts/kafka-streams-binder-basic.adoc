@@ -32,6 +32,7 @@ Go to https://start.spring.io and then search for "Cloud Stream" and "Kafka Stre
 {empty} +
 Here is an example.
 {empty} +
+{empty} +
 
 image::https://raw.githubusercontent.com/sobychacko/blog/master/static/blog1-image-1.jpg[Spring Initializr]
 
