@@ -34,7 +34,7 @@ Here is an example.
 {empty} +
 {empty} +
 
-image::https://raw.githubusercontent.com/sobychacko/blog/master/static/blog1-image-1.jpg[Spring Initializr]
+image::https://raw.githubusercontent.com/sobychacko/blog/master/static/blog1-image-2.png[Spring Initializr]
 
 {empty} +
 The artifact is named as stream-processing-basic.
@@ -122,3 +122,5 @@ You can also watch the output topic _bar_ and see the same data over there.
 {empty} +
 {empty} +
 There it is. In this article, went through the basic steps involved in creating a stateless stream processing application using Spring Cloud Stream and Kafka Streams.
+
+The code used in this blog can be found https://github.com/schacko-samples/stream-processing-basic[here].
